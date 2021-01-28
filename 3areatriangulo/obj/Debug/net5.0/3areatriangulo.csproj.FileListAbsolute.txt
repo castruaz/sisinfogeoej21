@@ -1,0 +1,15 @@
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/3areatriangulo/obj/Debug/net5.0/3areatriangulo.csprojAssemblyReference.cache
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/3areatriangulo/obj/Debug/net5.0/3areatriangulo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/3areatriangulo/obj/Debug/net5.0/3areatriangulo.AssemblyInfoInputs.cache
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/3areatriangulo/obj/Debug/net5.0/3areatriangulo.AssemblyInfo.cs
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/3areatriangulo/obj/Debug/net5.0/3areatriangulo.csproj.CoreCompileInputs.cache
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/3areatriangulo/bin/Debug/net5.0/3areatriangulo.deps.json
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/3areatriangulo/bin/Debug/net5.0/3areatriangulo.runtimeconfig.json
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/3areatriangulo/bin/Debug/net5.0/3areatriangulo.runtimeconfig.dev.json
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/3areatriangulo/bin/Debug/net5.0/3areatriangulo.dll
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/3areatriangulo/bin/Debug/net5.0/ref/3areatriangulo.dll
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/3areatriangulo/bin/Debug/net5.0/3areatriangulo.pdb
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/3areatriangulo/obj/Debug/net5.0/3areatriangulo.dll
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/3areatriangulo/obj/Debug/net5.0/ref/3areatriangulo.dll
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/3areatriangulo/obj/Debug/net5.0/3areatriangulo.pdb
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/3areatriangulo/obj/Debug/net5.0/3areatriangulo.genruntimeconfig.cache

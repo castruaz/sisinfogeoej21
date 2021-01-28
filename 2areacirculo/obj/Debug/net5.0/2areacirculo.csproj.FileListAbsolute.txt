@@ -1,0 +1,15 @@
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/2areacirculo/bin/Debug/net5.0/2areacirculo.deps.json
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/2areacirculo/bin/Debug/net5.0/2areacirculo.runtimeconfig.json
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/2areacirculo/bin/Debug/net5.0/2areacirculo.runtimeconfig.dev.json
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/2areacirculo/bin/Debug/net5.0/2areacirculo.dll
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/2areacirculo/bin/Debug/net5.0/ref/2areacirculo.dll
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/2areacirculo/bin/Debug/net5.0/2areacirculo.pdb
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/2areacirculo/obj/Debug/net5.0/2areacirculo.csprojAssemblyReference.cache
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/2areacirculo/obj/Debug/net5.0/2areacirculo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/2areacirculo/obj/Debug/net5.0/2areacirculo.AssemblyInfoInputs.cache
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/2areacirculo/obj/Debug/net5.0/2areacirculo.AssemblyInfo.cs
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/2areacirculo/obj/Debug/net5.0/2areacirculo.csproj.CoreCompileInputs.cache
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/2areacirculo/obj/Debug/net5.0/2areacirculo.dll
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/2areacirculo/obj/Debug/net5.0/ref/2areacirculo.dll
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/2areacirculo/obj/Debug/net5.0/2areacirculo.pdb
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/2areacirculo/obj/Debug/net5.0/2areacirculo.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/4pagatrabajador/obj/Debug/net5.0/4pagatrabajador.csprojAssemblyReference.cache
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/4pagatrabajador/obj/Debug/net5.0/4pagatrabajador.GeneratedMSBuildEditorConfig.editorconfig
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/4pagatrabajador/obj/Debug/net5.0/4pagatrabajador.AssemblyInfoInputs.cache
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/4pagatrabajador/obj/Debug/net5.0/4pagatrabajador.AssemblyInfo.cs
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/4pagatrabajador/obj/Debug/net5.0/4pagatrabajador.csproj.CoreCompileInputs.cache
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/4pagatrabajador/bin/Debug/net5.0/4pagatrabajador.deps.json
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/4pagatrabajador/bin/Debug/net5.0/4pagatrabajador.runtimeconfig.json
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/4pagatrabajador/bin/Debug/net5.0/4pagatrabajador.runtimeconfig.dev.json
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/4pagatrabajador/bin/Debug/net5.0/4pagatrabajador.dll
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/4pagatrabajador/bin/Debug/net5.0/ref/4pagatrabajador.dll
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/4pagatrabajador/bin/Debug/net5.0/4pagatrabajador.pdb
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/4pagatrabajador/obj/Debug/net5.0/4pagatrabajador.dll
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/4pagatrabajador/obj/Debug/net5.0/ref/4pagatrabajador.dll
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/4pagatrabajador/obj/Debug/net5.0/4pagatrabajador.pdb
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/4pagatrabajador/obj/Debug/net5.0/4pagatrabajador.genruntimeconfig.cache
