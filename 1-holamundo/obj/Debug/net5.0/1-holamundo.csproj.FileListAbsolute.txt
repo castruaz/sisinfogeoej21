@@ -1,0 +1,15 @@
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/1-holamundo/bin/Debug/net5.0/1-holamundo.deps.json
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/1-holamundo/bin/Debug/net5.0/1-holamundo.runtimeconfig.json
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/1-holamundo/bin/Debug/net5.0/1-holamundo.runtimeconfig.dev.json
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/1-holamundo/bin/Debug/net5.0/1-holamundo.dll
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/1-holamundo/bin/Debug/net5.0/ref/1-holamundo.dll
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/1-holamundo/bin/Debug/net5.0/1-holamundo.pdb
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/1-holamundo/obj/Debug/net5.0/1-holamundo.csprojAssemblyReference.cache
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/1-holamundo/obj/Debug/net5.0/1-holamundo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/1-holamundo/obj/Debug/net5.0/1-holamundo.AssemblyInfoInputs.cache
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/1-holamundo/obj/Debug/net5.0/1-holamundo.AssemblyInfo.cs
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/1-holamundo/obj/Debug/net5.0/1-holamundo.csproj.CoreCompileInputs.cache
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/1-holamundo/obj/Debug/net5.0/1-holamundo.dll
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/1-holamundo/obj/Debug/net5.0/ref/1-holamundo.dll
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/1-holamundo/obj/Debug/net5.0/1-holamundo.pdb
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/1-holamundo/obj/Debug/net5.0/1-holamundo.genruntimeconfig.cache
