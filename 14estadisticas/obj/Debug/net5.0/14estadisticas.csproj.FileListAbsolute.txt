@@ -1,0 +1,15 @@
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/14estadisticas/bin/Debug/net5.0/14estadisticas.deps.json
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/14estadisticas/bin/Debug/net5.0/14estadisticas.runtimeconfig.json
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/14estadisticas/bin/Debug/net5.0/14estadisticas.runtimeconfig.dev.json
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/14estadisticas/bin/Debug/net5.0/14estadisticas.dll
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/14estadisticas/bin/Debug/net5.0/ref/14estadisticas.dll
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/14estadisticas/bin/Debug/net5.0/14estadisticas.pdb
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/14estadisticas/obj/Debug/net5.0/14estadisticas.csprojAssemblyReference.cache
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/14estadisticas/obj/Debug/net5.0/14estadisticas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/14estadisticas/obj/Debug/net5.0/14estadisticas.AssemblyInfoInputs.cache
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/14estadisticas/obj/Debug/net5.0/14estadisticas.AssemblyInfo.cs
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/14estadisticas/obj/Debug/net5.0/14estadisticas.csproj.CoreCompileInputs.cache
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/14estadisticas/obj/Debug/net5.0/14estadisticas.dll
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/14estadisticas/obj/Debug/net5.0/ref/14estadisticas.dll
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/14estadisticas/obj/Debug/net5.0/14estadisticas.pdb
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/14estadisticas/obj/Debug/net5.0/14estadisticas.genruntimeconfig.cache
