@@ -1,0 +1,15 @@
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/10vectorcubo/obj/Debug/net5.0/10vectorcubo.csprojAssemblyReference.cache
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/10vectorcubo/obj/Debug/net5.0/10vectorcubo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/10vectorcubo/obj/Debug/net5.0/10vectorcubo.AssemblyInfoInputs.cache
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/10vectorcubo/obj/Debug/net5.0/10vectorcubo.AssemblyInfo.cs
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/10vectorcubo/obj/Debug/net5.0/10vectorcubo.csproj.CoreCompileInputs.cache
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/10vectorcubo/bin/Debug/net5.0/10vectorcubo.deps.json
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/10vectorcubo/bin/Debug/net5.0/10vectorcubo.runtimeconfig.json
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/10vectorcubo/bin/Debug/net5.0/10vectorcubo.runtimeconfig.dev.json
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/10vectorcubo/bin/Debug/net5.0/10vectorcubo.dll
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/10vectorcubo/bin/Debug/net5.0/ref/10vectorcubo.dll
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/10vectorcubo/bin/Debug/net5.0/10vectorcubo.pdb
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/10vectorcubo/obj/Debug/net5.0/10vectorcubo.dll
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/10vectorcubo/obj/Debug/net5.0/ref/10vectorcubo.dll
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/10vectorcubo/obj/Debug/net5.0/10vectorcubo.pdb
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/10vectorcubo/obj/Debug/net5.0/10vectorcubo.genruntimeconfig.cache

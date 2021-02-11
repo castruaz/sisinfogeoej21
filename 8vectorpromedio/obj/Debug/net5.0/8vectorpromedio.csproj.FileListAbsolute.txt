@@ -1,0 +1,15 @@
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/8vectorpromedio/bin/Debug/net5.0/8vectorpromedio.deps.json
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/8vectorpromedio/bin/Debug/net5.0/8vectorpromedio.runtimeconfig.json
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/8vectorpromedio/bin/Debug/net5.0/8vectorpromedio.runtimeconfig.dev.json
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/8vectorpromedio/bin/Debug/net5.0/8vectorpromedio.dll
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/8vectorpromedio/bin/Debug/net5.0/ref/8vectorpromedio.dll
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/8vectorpromedio/bin/Debug/net5.0/8vectorpromedio.pdb
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/8vectorpromedio/obj/Debug/net5.0/8vectorpromedio.csprojAssemblyReference.cache
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/8vectorpromedio/obj/Debug/net5.0/8vectorpromedio.GeneratedMSBuildEditorConfig.editorconfig
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/8vectorpromedio/obj/Debug/net5.0/8vectorpromedio.AssemblyInfoInputs.cache
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/8vectorpromedio/obj/Debug/net5.0/8vectorpromedio.AssemblyInfo.cs
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/8vectorpromedio/obj/Debug/net5.0/8vectorpromedio.csproj.CoreCompileInputs.cache
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/8vectorpromedio/obj/Debug/net5.0/8vectorpromedio.dll
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/8vectorpromedio/obj/Debug/net5.0/ref/8vectorpromedio.dll
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/8vectorpromedio/obj/Debug/net5.0/8vectorpromedio.pdb
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/8vectorpromedio/obj/Debug/net5.0/8vectorpromedio.genruntimeconfig.cache

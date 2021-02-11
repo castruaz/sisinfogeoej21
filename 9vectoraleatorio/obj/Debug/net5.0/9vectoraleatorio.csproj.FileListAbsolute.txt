@@ -1,0 +1,15 @@
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/9vectoraleatorio/bin/Debug/net5.0/9vectoraleatorio.deps.json
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/9vectoraleatorio/bin/Debug/net5.0/9vectoraleatorio.runtimeconfig.json
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/9vectoraleatorio/bin/Debug/net5.0/9vectoraleatorio.runtimeconfig.dev.json
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/9vectoraleatorio/bin/Debug/net5.0/9vectoraleatorio.dll
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/9vectoraleatorio/bin/Debug/net5.0/ref/9vectoraleatorio.dll
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/9vectoraleatorio/bin/Debug/net5.0/9vectoraleatorio.pdb
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/9vectoraleatorio/obj/Debug/net5.0/9vectoraleatorio.csprojAssemblyReference.cache
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/9vectoraleatorio/obj/Debug/net5.0/9vectoraleatorio.GeneratedMSBuildEditorConfig.editorconfig
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/9vectoraleatorio/obj/Debug/net5.0/9vectoraleatorio.AssemblyInfoInputs.cache
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/9vectoraleatorio/obj/Debug/net5.0/9vectoraleatorio.AssemblyInfo.cs
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/9vectoraleatorio/obj/Debug/net5.0/9vectoraleatorio.csproj.CoreCompileInputs.cache
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/9vectoraleatorio/obj/Debug/net5.0/9vectoraleatorio.dll
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/9vectoraleatorio/obj/Debug/net5.0/ref/9vectoraleatorio.dll
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/9vectoraleatorio/obj/Debug/net5.0/9vectoraleatorio.pdb
+/Users/castr/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/9vectoraleatorio/obj/Debug/net5.0/9vectoraleatorio.genruntimeconfig.cache
