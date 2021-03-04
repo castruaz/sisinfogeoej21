@@ -1,0 +1,15 @@
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/primerparcial/bin/Debug/net5.0/primerparcial.deps.json
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/primerparcial/bin/Debug/net5.0/primerparcial.runtimeconfig.json
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/primerparcial/bin/Debug/net5.0/primerparcial.runtimeconfig.dev.json
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/primerparcial/bin/Debug/net5.0/primerparcial.dll
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/primerparcial/bin/Debug/net5.0/ref/primerparcial.dll
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/primerparcial/bin/Debug/net5.0/primerparcial.pdb
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/primerparcial/obj/Debug/net5.0/primerparcial.csprojAssemblyReference.cache
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/primerparcial/obj/Debug/net5.0/primerparcial.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/primerparcial/obj/Debug/net5.0/primerparcial.AssemblyInfoInputs.cache
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/primerparcial/obj/Debug/net5.0/primerparcial.AssemblyInfo.cs
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/primerparcial/obj/Debug/net5.0/primerparcial.csproj.CoreCompileInputs.cache
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/primerparcial/obj/Debug/net5.0/primerparcial.dll
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/primerparcial/obj/Debug/net5.0/ref/primerparcial.dll
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/primerparcial/obj/Debug/net5.0/primerparcial.pdb
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/primerparcial/obj/Debug/net5.0/primerparcial.genruntimeconfig.cache

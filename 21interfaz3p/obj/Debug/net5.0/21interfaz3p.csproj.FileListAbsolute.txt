@@ -1,0 +1,15 @@
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/21interfaz3p/obj/Debug/net5.0/21interfaz3p.csprojAssemblyReference.cache
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/21interfaz3p/obj/Debug/net5.0/21interfaz3p.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/21interfaz3p/obj/Debug/net5.0/21interfaz3p.AssemblyInfoInputs.cache
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/21interfaz3p/obj/Debug/net5.0/21interfaz3p.AssemblyInfo.cs
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/21interfaz3p/obj/Debug/net5.0/21interfaz3p.csproj.CoreCompileInputs.cache
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/21interfaz3p/bin/Debug/net5.0/21interfaz3p.deps.json
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/21interfaz3p/bin/Debug/net5.0/21interfaz3p.runtimeconfig.json
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/21interfaz3p/bin/Debug/net5.0/21interfaz3p.runtimeconfig.dev.json
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/21interfaz3p/bin/Debug/net5.0/21interfaz3p.dll
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/21interfaz3p/bin/Debug/net5.0/ref/21interfaz3p.dll
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/21interfaz3p/bin/Debug/net5.0/21interfaz3p.pdb
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/21interfaz3p/obj/Debug/net5.0/21interfaz3p.dll
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/21interfaz3p/obj/Debug/net5.0/ref/21interfaz3p.dll
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/21interfaz3p/obj/Debug/net5.0/21interfaz3p.pdb
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/21interfaz3p/obj/Debug/net5.0/21interfaz3p.genruntimeconfig.cache

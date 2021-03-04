@@ -1,0 +1,15 @@
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/20interfaz2/bin/Debug/net5.0/20interfaz2.deps.json
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/20interfaz2/bin/Debug/net5.0/20interfaz2.runtimeconfig.json
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/20interfaz2/bin/Debug/net5.0/20interfaz2.runtimeconfig.dev.json
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/20interfaz2/bin/Debug/net5.0/20interfaz2.dll
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/20interfaz2/bin/Debug/net5.0/ref/20interfaz2.dll
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/20interfaz2/bin/Debug/net5.0/20interfaz2.pdb
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/20interfaz2/obj/Debug/net5.0/20interfaz2.csprojAssemblyReference.cache
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/20interfaz2/obj/Debug/net5.0/20interfaz2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/20interfaz2/obj/Debug/net5.0/20interfaz2.AssemblyInfoInputs.cache
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/20interfaz2/obj/Debug/net5.0/20interfaz2.AssemblyInfo.cs
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/20interfaz2/obj/Debug/net5.0/20interfaz2.csproj.CoreCompileInputs.cache
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/20interfaz2/obj/Debug/net5.0/20interfaz2.dll
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/20interfaz2/obj/Debug/net5.0/ref/20interfaz2.dll
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/20interfaz2/obj/Debug/net5.0/20interfaz2.pdb
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/20interfaz2/obj/Debug/net5.0/20interfaz2.genruntimeconfig.cache
