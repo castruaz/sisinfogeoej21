@@ -1,0 +1,15 @@
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/21interfaz3/bin/Debug/net5.0/21interfaz3.deps.json
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/21interfaz3/bin/Debug/net5.0/21interfaz3.runtimeconfig.json
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/21interfaz3/bin/Debug/net5.0/21interfaz3.runtimeconfig.dev.json
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/21interfaz3/bin/Debug/net5.0/21interfaz3.dll
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/21interfaz3/bin/Debug/net5.0/ref/21interfaz3.dll
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/21interfaz3/bin/Debug/net5.0/21interfaz3.pdb
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/21interfaz3/obj/Debug/net5.0/21interfaz3.csprojAssemblyReference.cache
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/21interfaz3/obj/Debug/net5.0/21interfaz3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/21interfaz3/obj/Debug/net5.0/21interfaz3.AssemblyInfoInputs.cache
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/21interfaz3/obj/Debug/net5.0/21interfaz3.AssemblyInfo.cs
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/21interfaz3/obj/Debug/net5.0/21interfaz3.csproj.CoreCompileInputs.cache
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/21interfaz3/obj/Debug/net5.0/21interfaz3.dll
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/21interfaz3/obj/Debug/net5.0/ref/21interfaz3.dll
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/21interfaz3/obj/Debug/net5.0/21interfaz3.pdb
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/21interfaz3/obj/Debug/net5.0/21interfaz3.genruntimeconfig.cache

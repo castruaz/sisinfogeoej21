@@ -1,0 +1,15 @@
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/30archivos1_p/bin/Debug/net5.0/30archivos1_p.deps.json
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/30archivos1_p/bin/Debug/net5.0/30archivos1_p.runtimeconfig.json
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/30archivos1_p/bin/Debug/net5.0/30archivos1_p.runtimeconfig.dev.json
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/30archivos1_p/bin/Debug/net5.0/30archivos1_p.dll
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/30archivos1_p/bin/Debug/net5.0/ref/30archivos1_p.dll
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/30archivos1_p/bin/Debug/net5.0/30archivos1_p.pdb
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/30archivos1_p/obj/Debug/net5.0/30archivos1_p.csprojAssemblyReference.cache
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/30archivos1_p/obj/Debug/net5.0/30archivos1_p.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/30archivos1_p/obj/Debug/net5.0/30archivos1_p.AssemblyInfoInputs.cache
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/30archivos1_p/obj/Debug/net5.0/30archivos1_p.AssemblyInfo.cs
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/30archivos1_p/obj/Debug/net5.0/30archivos1_p.csproj.CoreCompileInputs.cache
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/30archivos1_p/obj/Debug/net5.0/30archivos1_p.dll
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/30archivos1_p/obj/Debug/net5.0/ref/30archivos1_p.dll
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/30archivos1_p/obj/Debug/net5.0/30archivos1_p.pdb
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/30archivos1_p/obj/Debug/net5.0/30archivos1_p.genruntimeconfig.cache
