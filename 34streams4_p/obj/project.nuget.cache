@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6mrjjMHCwS5dpl06NZ+dxYLxEJYQrQ0fF06DZ8ANfPFGGniDdob0K/iVUfZcyKfRZT5wFVBGkISmmmM7I6Y0zg==",
+  "success": true,
+  "projectFilePath": "/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/34streams4_p/34streams4_p.csproj",
+  "expectedPackageFiles": [
+    "/Users/carloscastaneda/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

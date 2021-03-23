@@ -1,0 +1,15 @@
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/32streams2_p/bin/Debug/net5.0/32streams2_p.deps.json
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/32streams2_p/bin/Debug/net5.0/32streams2_p.runtimeconfig.json
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/32streams2_p/bin/Debug/net5.0/32streams2_p.runtimeconfig.dev.json
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/32streams2_p/bin/Debug/net5.0/32streams2_p.dll
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/32streams2_p/bin/Debug/net5.0/ref/32streams2_p.dll
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/32streams2_p/bin/Debug/net5.0/32streams2_p.pdb
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/32streams2_p/obj/Debug/net5.0/32streams2_p.csprojAssemblyReference.cache
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/32streams2_p/obj/Debug/net5.0/32streams2_p.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/32streams2_p/obj/Debug/net5.0/32streams2_p.AssemblyInfoInputs.cache
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/32streams2_p/obj/Debug/net5.0/32streams2_p.AssemblyInfo.cs
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/32streams2_p/obj/Debug/net5.0/32streams2_p.csproj.CoreCompileInputs.cache
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/32streams2_p/obj/Debug/net5.0/32streams2_p.dll
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/32streams2_p/obj/Debug/net5.0/ref/32streams2_p.dll
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/32streams2_p/obj/Debug/net5.0/32streams2_p.pdb
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/32streams2_p/obj/Debug/net5.0/32streams2_p.genruntimeconfig.cache

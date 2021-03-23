@@ -1,0 +1,17 @@
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/34streams4_p/bin/Debug/net5.0/34streams4_p.deps.json
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/34streams4_p/bin/Debug/net5.0/34streams4_p.runtimeconfig.json
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/34streams4_p/bin/Debug/net5.0/34streams4_p.runtimeconfig.dev.json
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/34streams4_p/bin/Debug/net5.0/34streams4_p.dll
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/34streams4_p/bin/Debug/net5.0/ref/34streams4_p.dll
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/34streams4_p/bin/Debug/net5.0/34streams4_p.pdb
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/34streams4_p/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/34streams4_p/obj/Debug/net5.0/34streams4_p.csprojAssemblyReference.cache
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/34streams4_p/obj/Debug/net5.0/34streams4_p.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/34streams4_p/obj/Debug/net5.0/34streams4_p.AssemblyInfoInputs.cache
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/34streams4_p/obj/Debug/net5.0/34streams4_p.AssemblyInfo.cs
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/34streams4_p/obj/Debug/net5.0/34streams4_p.csproj.CoreCompileInputs.cache
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/34streams4_p/obj/Debug/net5.0/34streams4_p.csproj.CopyComplete
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/34streams4_p/obj/Debug/net5.0/34streams4_p.dll
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/34streams4_p/obj/Debug/net5.0/ref/34streams4_p.dll
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/34streams4_p/obj/Debug/net5.0/34streams4_p.pdb
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/34streams4_p/obj/Debug/net5.0/34streams4_p.genruntimeconfig.cache

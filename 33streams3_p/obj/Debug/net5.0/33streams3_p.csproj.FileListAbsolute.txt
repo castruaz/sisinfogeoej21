@@ -1,0 +1,15 @@
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/33streams3_p/bin/Debug/net5.0/33streams3_p.deps.json
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/33streams3_p/bin/Debug/net5.0/33streams3_p.runtimeconfig.json
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/33streams3_p/bin/Debug/net5.0/33streams3_p.runtimeconfig.dev.json
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/33streams3_p/bin/Debug/net5.0/33streams3_p.dll
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/33streams3_p/bin/Debug/net5.0/ref/33streams3_p.dll
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/33streams3_p/bin/Debug/net5.0/33streams3_p.pdb
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/33streams3_p/obj/Debug/net5.0/33streams3_p.csprojAssemblyReference.cache
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/33streams3_p/obj/Debug/net5.0/33streams3_p.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/33streams3_p/obj/Debug/net5.0/33streams3_p.AssemblyInfoInputs.cache
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/33streams3_p/obj/Debug/net5.0/33streams3_p.AssemblyInfo.cs
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/33streams3_p/obj/Debug/net5.0/33streams3_p.csproj.CoreCompileInputs.cache
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/33streams3_p/obj/Debug/net5.0/33streams3_p.dll
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/33streams3_p/obj/Debug/net5.0/ref/33streams3_p.dll
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/33streams3_p/obj/Debug/net5.0/33streams3_p.pdb
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/33streams3_p/obj/Debug/net5.0/33streams3_p.genruntimeconfig.cache
