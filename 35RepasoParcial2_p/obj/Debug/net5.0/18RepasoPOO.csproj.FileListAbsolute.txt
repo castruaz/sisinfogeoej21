@@ -1,0 +1,15 @@
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/18RepasoPOO/bin/Debug/net5.0/18RepasoPOO.deps.json
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/18RepasoPOO/bin/Debug/net5.0/18RepasoPOO.runtimeconfig.json
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/18RepasoPOO/bin/Debug/net5.0/18RepasoPOO.runtimeconfig.dev.json
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/18RepasoPOO/bin/Debug/net5.0/18RepasoPOO.dll
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/18RepasoPOO/bin/Debug/net5.0/ref/18RepasoPOO.dll
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/18RepasoPOO/bin/Debug/net5.0/18RepasoPOO.pdb
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/18RepasoPOO/obj/Debug/net5.0/18RepasoPOO.csprojAssemblyReference.cache
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/18RepasoPOO/obj/Debug/net5.0/18RepasoPOO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/18RepasoPOO/obj/Debug/net5.0/18RepasoPOO.AssemblyInfoInputs.cache
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/18RepasoPOO/obj/Debug/net5.0/18RepasoPOO.AssemblyInfo.cs
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/18RepasoPOO/obj/Debug/net5.0/18RepasoPOO.csproj.CoreCompileInputs.cache
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/18RepasoPOO/obj/Debug/net5.0/18RepasoPOO.dll
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/18RepasoPOO/obj/Debug/net5.0/ref/18RepasoPOO.dll
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/18RepasoPOO/obj/Debug/net5.0/18RepasoPOO.pdb
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/18RepasoPOO/obj/Debug/net5.0/18RepasoPOO.genruntimeconfig.cache
