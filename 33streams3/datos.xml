@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<ArrayOfEmpleado xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Empleado>
+    <Id>1</Id>
+    <Nombre>Juan Perez</Nombre>
+    <Salario>5300</Salario>
+  </Empleado>
+  <Empleado>
+    <Id>2</Id>
+    <Nombre>Maria Lopez</Nombre>
+    <Salario>6500</Salario>
+  </Empleado>
+  <Empleado>
+    <Id>3</Id>
+    <Nombre>Gerardo Jimenez</Nombre>
+    <Salario>15300</Salario>
+  </Empleado>
+  <Empleado>
+    <Id>4</Id>
+    <Nombre>Claudia Reyes</Nombre>
+    <Salario>30000</Salario>
+  </Empleado>
+</ArrayOfEmpleado>

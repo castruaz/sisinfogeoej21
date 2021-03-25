@@ -1,7 +1,8 @@
 using System;
 using System.Collections.Generic;
 
-public class Nodo {
+[Serializable]
+public class Nodo: IComparable<Nodo> {
 
     public Nodo() {Vulnerabilidades=new List<Vulnerabilidad>();}
 
@@ -15,6 +16,14 @@ public class Nodo {
     public String So {get; set;}
     public List<Vulnerabilidad> Vulnerabilidades {get; set;}
 
+    public int CompareTo(Nodo otro) {
+        if(this.Saltos<otro.Saltos) return 1;
+        else if(this.Saltos>otro.Saltos) return -1;
+        else return 0;
+    }
+
     public override string ToString() =>
-        String.Format($"Ip:{Ip}, Tipo:{Tipo}, Puertos:{Puertos.ToString()},Saltos:{Saltos.ToString()}, So:{So}, Totvul:{Vulnerabilidades.Count.ToString()}");
+         $"Ip: {Ip,-10} Tipo: {Tipo,-12} Puertos: {Puertos.ToString(),-3} " +
+         $"Saltos: {Saltos.ToString(), -3} So: {So,-8} Totvul: {Vulnerabilidades.Count.ToString()}";
 }
+

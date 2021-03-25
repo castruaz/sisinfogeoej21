@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/18RepasoPOO/18RepasoPOO.csproj": {}
+    "/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/35RepasoParcial2_p/18RepasoPOO.csproj": {}
   },
   "projects": {
-    "/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/18RepasoPOO/18RepasoPOO.csproj": {
+    "/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/35RepasoParcial2_p/18RepasoPOO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/18RepasoPOO/18RepasoPOO.csproj",
+        "projectUniqueName": "/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/35RepasoParcial2_p/18RepasoPOO.csproj",
         "projectName": "18RepasoPOO",
-        "projectPath": "/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/18RepasoPOO/18RepasoPOO.csproj",
+        "projectPath": "/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/35RepasoParcial2_p/18RepasoPOO.csproj",
         "packagesPath": "/Users/carloscastaneda/.nuget/packages/",
-        "outputPath": "/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/18RepasoPOO/obj/",
+        "outputPath": "/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/35RepasoParcial2_p/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/carloscastaneda/.nuget/NuGet/NuGet.Config"
@@ -37,6 +37,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

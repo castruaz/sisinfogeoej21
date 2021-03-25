@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "+PkRHShGBTm5fB/G8c/Ssa9FHsO1rSVR4MJjcYiucWevsj0DQH6dQZ5MaznE9Sz39hwhZ62hN+OX33iVlXBwdA==",
+  "dgSpecHash": "qNJ/yjOrXO3ojGUViOpAtSzSM2NBa+zHTGROgsVITabZ7OUHX3HWnyxRfoT3KtItA2RvAo/XIcP9r9S+Eg+cww==",
   "success": true,
-  "projectFilePath": "/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/18RepasoPOO/18RepasoPOO.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/35RepasoParcial2_p/18RepasoPOO.csproj",
+  "expectedPackageFiles": [
+    "/Users/carloscastaneda/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
