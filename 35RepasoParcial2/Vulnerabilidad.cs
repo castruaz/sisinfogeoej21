@@ -1,6 +1,6 @@
 using System;
 
-public class Vulnerabilidad {
+public class Vulnerabilidad: IFormattable {
 
     public Vulnerabilidad() {}
 
@@ -16,6 +16,15 @@ public class Vulnerabilidad {
     public int Antiguedad() => DateTime.Now.Year - Fecha.Year;
 
     public override string ToString() =>
-        String.Format($"Clave:{Clave},Vendedor:{Vendedor},Descripcion:{Descripcion},Tipo:{Tipo},Fecha:{Fecha.ToString("dd/mm/yy")},Antiguedad:{Antiguedad().ToString()}");
+        $"Clave: {Clave,-12} Vendedor: {Vendedor,-10} Descripcion: {Descripcion,-63} Tipo: {Tipo,-8}" +
+        $"Fecha: {Fecha.ToString("dd/mm/yy"),-8} Antiguedad: {Antiguedad().ToString()}";
+    
+    public string ToString(string formato, IFormatProvider proveedor) {
+        switch(formato) {
+            case "D1" : return  $"Clave: {Clave,-12} Vendedor: {Vendedor,-10} Tipo: {Tipo,-8}";
+            case "D2" : return  $"Clave: {Clave,-12} Vendedor: {Vendedor,-10} Tipo: {Tipo,-8} Fecha: {Fecha.ToString("dd/mm/yy"),-8}";
+            default: return "";                  
+        }
+    }
      
 }

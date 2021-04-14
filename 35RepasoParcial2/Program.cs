@@ -1,11 +1,37 @@
 ﻿using System;
+using System.IO;
 using System.Collections.Generic;
+using static System.Console;
 
 Red mired=null;
+string ruta = Path.Combine(Environment.CurrentDirectory,"datosred");
 
 Console.WriteLine("Sistemas de Seguridad SA de CV");
 Inicializa(ref mired);
-Reporte(mired);
+//Reporte(mired);
+Utilerias.repNodos(mired);
+//repVulnerabilidades(mired);
+//xmlSerializa(mired);
+//jsonSerializa(mired);
+
+
+void jsonSerializa(Red red) {
+    WriteLine("\nSerializando datos en formato json ....");
+    Utilerias.jsonGrabar(ruta, red);
+    Red otrared = new Red();
+    WriteLine("\nCargando datos del archivo: {0}",ruta);
+    Utilerias.jsonLeer(ruta, ref otrared);
+    Reporte(otrared);
+}
+
+void xmlSerializa(Red red) {
+    WriteLine("\nSerializando datos en formato xml ....");
+    Utilerias.xmlGrabar(ruta, red);
+    Red otrared = new Red();
+    WriteLine("\nCargando datos del archivo: {0}",ruta);
+    Utilerias.xmlLeer(ruta, ref otrared);
+    Reporte(otrared);
+}
 
 
 void Inicializa(ref Red r) {

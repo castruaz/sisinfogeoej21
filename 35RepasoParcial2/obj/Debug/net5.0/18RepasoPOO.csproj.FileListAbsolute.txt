@@ -28,3 +28,5 @@
 /Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/35RepasoParcial2/obj/Debug/net5.0/ref/18RepasoPOO.dll
 /Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/35RepasoParcial2/obj/Debug/net5.0/18RepasoPOO.pdb
 /Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/35RepasoParcial2/obj/Debug/net5.0/18RepasoPOO.genruntimeconfig.cache
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/35RepasoParcial2/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/35RepasoParcial2/obj/Debug/net5.0/18RepasoPOO.csproj.CopyComplete

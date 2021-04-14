@@ -16,5 +16,6 @@ public class Nodo {
     public List<Vulnerabilidad> Vulnerabilidades {get; set;}
 
     public override string ToString() =>
-        String.Format($"Ip:{Ip}, Tipo:{Tipo}, Puertos:{Puertos.ToString()},Saltos:{Saltos.ToString()}, So:{So}, Totvul:{Vulnerabilidades.Count.ToString()}");
+         $"Ip: {Ip,-10} Tipo: {Tipo,-12} Puertos: {Puertos.ToString(),-3} " +
+         $"Saltos: {Saltos.ToString(),-3} So: {So,-8} Totvul: {Vulnerabilidades.Count.ToString()}";
 }
