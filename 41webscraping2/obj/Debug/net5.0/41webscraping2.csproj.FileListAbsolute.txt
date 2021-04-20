@@ -1,0 +1,17 @@
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/41webscraping2/bin/Debug/net5.0/41webscraping2.deps.json
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/41webscraping2/bin/Debug/net5.0/41webscraping2.runtimeconfig.json
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/41webscraping2/bin/Debug/net5.0/41webscraping2.runtimeconfig.dev.json
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/41webscraping2/bin/Debug/net5.0/41webscraping2.dll
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/41webscraping2/bin/Debug/net5.0/ref/41webscraping2.dll
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/41webscraping2/bin/Debug/net5.0/41webscraping2.pdb
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/41webscraping2/bin/Debug/net5.0/HtmlAgilityPack.dll
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/41webscraping2/obj/Debug/net5.0/41webscraping2.csprojAssemblyReference.cache
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/41webscraping2/obj/Debug/net5.0/41webscraping2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/41webscraping2/obj/Debug/net5.0/41webscraping2.AssemblyInfoInputs.cache
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/41webscraping2/obj/Debug/net5.0/41webscraping2.AssemblyInfo.cs
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/41webscraping2/obj/Debug/net5.0/41webscraping2.csproj.CoreCompileInputs.cache
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/41webscraping2/obj/Debug/net5.0/41webscraping2.csproj.CopyComplete
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/41webscraping2/obj/Debug/net5.0/41webscraping2.dll
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/41webscraping2/obj/Debug/net5.0/ref/41webscraping2.dll
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/41webscraping2/obj/Debug/net5.0/41webscraping2.pdb
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/41webscraping2/obj/Debug/net5.0/41webscraping2.genruntimeconfig.cache
