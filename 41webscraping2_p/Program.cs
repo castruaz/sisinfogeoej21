@@ -16,30 +16,35 @@ namespace _41webscraping2_p
             string ruta = Path.Combine(System.Environment.CurrentDirectory, "imagenes");
             HashSet<Uri> lista = new HashSet<Uri>();
 
+            if(Directory.Exists(ruta)) 
+                Directory.Delete(ruta, true);
+            
             Directory.CreateDirectory(ruta);
+             
+
             
             string baseUrl = args[0];
             HtmlWeb web = new HtmlWeb();
             HtmlDocument doc = web.Load(baseUrl);
-            Ligas(doc);
+            //Ligas(doc);
 
-            // var nodos = doc.DocumentNode.SelectNodes("//img/@src").Select(v=>v.Attributes["src"].Value).Where(v=>v is not null);
+            var nodos = doc.DocumentNode.SelectNodes("//img/@src").Select(v=>v.Attributes["src"].Value).Where(v=>v is not null);
 
-            // foreach(var n in nodos) {
-            //     Uri uri = new Uri(n, UriKind.RelativeOrAbsolute);
-            //     if ( !uri.IsAbsoluteUri) uri = new Uri(new Uri(baseUrl),uri);
-            //     lista.Add(uri);
-            // }
+            foreach(var n in nodos) {
+                Uri uri = new Uri(n, UriKind.RelativeOrAbsolute);
+                if ( !uri.IsAbsoluteUri) uri = new Uri(new Uri(baseUrl),uri);
+                lista.Add(uri);
+            }
 
-            // WebClient wc = new WebClient();
+            WebClient wc = new WebClient();
 
-            // WriteLine("\nDescargando ..\n");
-            // foreach(var uri in lista) {
-            //     string nomarch = Path.GetFileName(uri.LocalPath);
-            //     string rutades  = Path.Combine(ruta,nomarch);
-            //    WriteLine($"{uri.ToString()} - {rutades}");
-            //     wc.DownloadFile(uri,rutades);
-            //}
+            WriteLine("\nDescargando ..\n");
+            foreach(var uri in lista) {
+                string nomarch = Path.GetFileName(uri.LocalPath);
+                string rutades  = Path.Combine(ruta,nomarch);
+               WriteLine($"{uri.ToString()} - {rutades}");
+                wc.DownloadFile(uri,rutades);
+            }
         }
 
         static void Ligas(HtmlDocument doc) {
