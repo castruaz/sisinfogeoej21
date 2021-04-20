@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6IRsT0VCzwKzofYpKSzY4vKEOk7El2iE6uonsJIWbjwL9Vju5PSPPOe/u8F5vBO0v9b+6x5Qsm+vWaVOonIdIw==",
+  "success": true,
+  "projectFilePath": "/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/40webscraping1/40webscraping1.csproj",
+  "expectedPackageFiles": [
+    "/Users/carloscastaneda/.nuget/packages/htmlagilitypack/1.11.32/htmlagilitypack.1.11.32.nupkg.sha512"
+  ],
+  "logs": []
+}

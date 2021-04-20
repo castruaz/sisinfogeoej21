@@ -1,0 +1,17 @@
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/41webscraping2_p/bin/Debug/net5.0/41webscraping2_p.deps.json
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/41webscraping2_p/bin/Debug/net5.0/41webscraping2_p.runtimeconfig.json
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/41webscraping2_p/bin/Debug/net5.0/41webscraping2_p.runtimeconfig.dev.json
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/41webscraping2_p/bin/Debug/net5.0/41webscraping2_p.dll
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/41webscraping2_p/bin/Debug/net5.0/ref/41webscraping2_p.dll
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/41webscraping2_p/bin/Debug/net5.0/41webscraping2_p.pdb
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/41webscraping2_p/bin/Debug/net5.0/HtmlAgilityPack.dll
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/41webscraping2_p/obj/Debug/net5.0/41webscraping2_p.csprojAssemblyReference.cache
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/41webscraping2_p/obj/Debug/net5.0/41webscraping2_p.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/41webscraping2_p/obj/Debug/net5.0/41webscraping2_p.AssemblyInfoInputs.cache
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/41webscraping2_p/obj/Debug/net5.0/41webscraping2_p.AssemblyInfo.cs
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/41webscraping2_p/obj/Debug/net5.0/41webscraping2_p.csproj.CoreCompileInputs.cache
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/41webscraping2_p/obj/Debug/net5.0/41webscraping2_p.csproj.CopyComplete
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/41webscraping2_p/obj/Debug/net5.0/41webscraping2_p.dll
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/41webscraping2_p/obj/Debug/net5.0/ref/41webscraping2_p.dll
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/41webscraping2_p/obj/Debug/net5.0/41webscraping2_p.pdb
+/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/41webscraping2_p/obj/Debug/net5.0/41webscraping2_p.genruntimeconfig.cache
