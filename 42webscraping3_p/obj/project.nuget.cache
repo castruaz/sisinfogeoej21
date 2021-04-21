@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "PC0WqH5FPQFKxq7OeWGUme2/KRaxs0aatDOmQB3U/+LGysBvoWqOJeuXJQ8a4fDn3OIp6y2tTpeDTtWg9ZxIIA==",
+  "dgSpecHash": "702kpuR8EthIFxr8TKfcJFH1yrSeAoaJmhAJi5PdogGiZcU2l0L0n8iYw3d88xzmW1Abh+zclmuTmP729pyTAQ==",
   "success": true,
   "projectFilePath": "/Users/carloscastaneda/Google Drive/UAZ2021/ClasesEJ2021/04-sisinfo-ic/programas/42webscraping3_p/42webscraping3_p.csproj",
   "expectedPackageFiles": [
-    "/Users/carloscastaneda/.nuget/packages/htmlagilitypack/1.11.32/htmlagilitypack.1.11.32.nupkg.sha512"
+    "/Users/carloscastaneda/.nuget/packages/htmlagilitypack/1.11.32/htmlagilitypack.1.11.32.nupkg.sha512",
+    "/Users/carloscastaneda/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
   ],
   "logs": []
 }
