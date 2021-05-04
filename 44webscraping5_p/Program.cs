@@ -18,6 +18,9 @@ namespace _44webscraping5_p
             var db = new DataContext();
            
 
+             // Hacer scrapping de los datos en las estructuras temporales en memoria categorias,libros
+
+            // Scraping de categorias
             var ligascat =  driver.FindElements(By.XPath("/html/body/div/div/div/aside/div[2]/ul/li/ul/li/a"));
             List<Categoria> categorias = new List<Categoria>();
             foreach(var l in ligascat) {
@@ -31,11 +34,11 @@ namespace _44webscraping5_p
                 categorias.Add(cat);
             }
 
+            // Scraping de libros
             List<Libro> libros = new List<Libro>();
             List<string> urls = new List<string>();
             for (int i = 1; i <=50; i++) urls.Add($@"http://books.toscrape.com/catalogue/page-{i}.html");
-            //urls.ForEach(u=>WriteLine(u));
-            foreach(var url in urls) {
+             foreach(var url in urls) {
                 driver.Navigate().GoToUrl(url);
                 List<string> urlslibros = new List<string>();
                 var ligaslibros = driver.FindElements(By.XPath("html/body/div/div/div/div/section/div[2]/ol/li/article/h3/a"));
@@ -56,7 +59,7 @@ namespace _44webscraping5_p
 
             }
 
-            
+            // Grabar los datos en la base de datos
             foreach(var c in categorias) {
                 db.Categorias.Add(c);
             }
@@ -64,6 +67,8 @@ namespace _44webscraping5_p
                 db.Libros.Add(l);
             }
             db.SaveChanges();
+
+            
         
         }
  
